@@ -23,6 +23,13 @@ the retrieval funnel, each exclusion with its own reason and count, and what a
 public-forum sample cannot support. It also catches its own sampling bias — ask for
 three years with a thread limit and you get a recency sample, and it says so.
 
+**[ats-radar](https://github.com/uxrhimanshu/ats-radar)** — poll employers' job
+boards for the roles you want. The whole search — categories, exclusions, locations
+— lives in a JSON profile rather than the code. Running it as a census rather than
+an alert is what made it interesting: it showed that the employers actually hiring
+user researchers in Germany were in neither my target list nor the wider one I built
+to check it.
+
 ### Studies
 
 **[the-human-element](https://github.com/uxrhimanshu/the-human-element)** — a
