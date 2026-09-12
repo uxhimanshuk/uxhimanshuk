@@ -22,6 +22,7 @@ you can defend in a methods section. Every run writes a sampling log: the query,
 the retrieval funnel, each exclusion with its own reason and count, and what a
 public-forum sample cannot support. It also catches its own sampling bias — ask for
 three years with a thread limit and you get a recency sample, and it says so.
+Used in [clicked-through](https://github.com/uxrhimanshu/clicked-through).
 
 **[ats-radar](https://github.com/uxrhimanshu/ats-radar)** — poll employers' job
 boards for the roles you want. The whole search — categories, exclusions, locations
@@ -31,6 +32,15 @@ user researchers in Germany were in neither my target list nor the wider one I b
 to check it.
 
 ### Studies
+
+**[clicked-through](https://github.com/uxrhimanshu/clicked-through)** — what
+technical people do when a security warning has no answer they can give. I expected
+to find a risk calculus and found something else: warnings that cannot be obeyed at
+all, because the compliant path doesn't exist for a device on a LAN address. What
+follows is a workaround becoming policy, and — in one case — a supplier shipping the
+same private key to thousands of machines because "it gets rid of the red X in a
+browser so tick." Built with the two tools above; the corpus, the sampling log,
+every screening decision and three approaches that failed are all in the repo.
 
 **[the-human-element](https://github.com/uxrhimanshu/the-human-element)** — a
 design-research study of 10,042 public security incidents, asking where the
