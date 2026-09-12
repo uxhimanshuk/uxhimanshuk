@@ -17,6 +17,12 @@ and every replacement goes through a review pass rather than being decided silen
 No network, no storage, no dependencies — the privacy claim is checkable by reading
 the source. → [try it](https://uxrhimanshu.github.io/research-deid/)
 
+**[fieldnotes](https://github.com/uxrhimanshu/fieldnotes)** — build a forum corpus
+you can defend in a methods section. Every run writes a sampling log: the query,
+the retrieval funnel, each exclusion with its own reason and count, and what a
+public-forum sample cannot support. It also catches its own sampling bias — ask for
+three years with a thread limit and you get a recency sample, and it says so.
+
 ### Studies
 
 **[the-human-element](https://github.com/uxrhimanshu/the-human-element)** — a
