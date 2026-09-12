@@ -8,6 +8,15 @@ that's actually true" and turned into something small and runnable.
 
 ---
 
+### Research tools
+
+**[research-deid](https://github.com/uxrhimanshu/research-deid)** — de-identify
+interview transcripts in the browser before they go into an LLM. Pseudonyms stay
+consistent across a whole study, so the transcript is still analysable afterwards,
+and every replacement goes through a review pass rather than being decided silently.
+No network, no storage, no dependencies — the privacy claim is checkable by reading
+the source. → [try it](https://uxrhimanshu.github.io/research-deid/)
+
 ### Studies
 
 **[the-human-element](https://github.com/uxrhimanshu/the-human-element)** — a
