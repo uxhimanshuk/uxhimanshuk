@@ -41,6 +41,7 @@ follows is a workaround becoming policy, and — in one case — a supplier ship
 same private key to thousands of machines because "it gets rid of the red X in a
 browser so tick." Built with the two tools above; the corpus, the sampling log,
 every screening decision and three approaches that failed are all in the repo.
+→ [read it](https://uxrhimanshu.github.io/clicked-through/)
 
 **[the-human-element](https://github.com/uxrhimanshu/the-human-element)** — a
 design-research study of 10,042 public security incidents, asking where the
