@@ -1,6 +1,6 @@
 # Himanshu Kalra
 
-UX researcher · ex-architect · maker of small tools.
+UX researcher · making tools for faster, sharper product decisions
 
 I do user research for enterprise security software, and I build things to answer
 questions the research raises. Most of what's here started as "I wonder whether
