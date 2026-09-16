@@ -31,6 +31,16 @@ an alert is what made it interesting: it showed that the employers actually hiri
 user researchers in Germany were in neither my target list nor the wider one I built
 to check it.
 
+### Drawing
+
+**[to-scale](https://github.com/uxrhimanshu/to-scale)** — service journeys drawn as
+architectural sections, to scale on both axes. A blueprint gives every step the same
+width, so neither axis means anything and the drawing cannot be contradicted. Drawn to
+scale, a breach at VCDB medians inverts: containment is a 6%-wide sliver and the rest of
+the sheet is thirty days of nobody knowing. I trained as an architect before this; the
+conventions are borrowed on purpose and each one is doing a job.
+→ [see the drawings](https://uxrhimanshu.github.io/to-scale/)
+
 ### Studies
 
 **[clicked-through](https://github.com/uxrhimanshu/clicked-through)** — what
