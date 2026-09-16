@@ -49,7 +49,7 @@ interface set the person up to fail. Breach reports stop at "human error"; this
 re-reads the corpus as design failure and classifies it. Finding: 78% of
 error-caused breaches are discovered from *outside* the organisation, and the most
 common discoverer is the customer whose data was exposed. Reproducible from public
-data, standard library only.
+data, standard library only. → [read it](https://the-human-element.netlify.app)
 
 **[bangalore-transit](https://github.com/uxrhimanshu/bangalore-transit)** — a
 feasibility study on building an honest live-departure board for Bangalore's buses
