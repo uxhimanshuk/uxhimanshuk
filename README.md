@@ -8,6 +8,18 @@ that's actually true" and turned into something small and runnable.
 
 ---
 
+### Design
+
+**[unobeyable](https://github.com/uxrhimanshu/unobeyable)** · the design answer to
+clicked-through. If warnings are clicked through because they can't be obeyed, what
+should the interface do instead? Seven principles, each traced to coded evidence by a
+script. Five situations the browser can already tell apart, each with its own warning:
+quieter where today's is wrong, stricter where a changed certificate could be an attack.
+An accessible `<trust-warning>` component with its decision logic in one tested
+function, interactive prototypes, a decisions log that keeps the rejected directions,
+and a comparison study that is designed and instrumented but not yet run.
+→ [see the case study](https://uxrhimanshu.github.io/unobeyable/)
+
 ### Research tools
 
 **[research-deid](https://github.com/uxrhimanshu/research-deid)** — de-identify
