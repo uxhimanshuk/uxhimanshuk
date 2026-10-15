@@ -80,12 +80,11 @@ sources, and stops at a GO verdict rather than building on an untested assumptio
 
 ### Things I've shipped
 
-**[ground-view](https://github.com/uxhimanshuk/ground-view)** · God's Eye View, the live 3D
-globe of planes, ships and satellites, forked and pointed at people instead. Protest reports
-from GDELT, what each Wikipedia language edition read yesterday, refugee and migration
-flows, and country indicators and values, all aggregated so that nothing follows an
-individual. Every layer's card says what its number cannot tell you. The live feeds refresh
-every 30 minutes through a GitHub Actions workflow, so the demo needs no server.
+**[ground-view](https://github.com/uxhimanshuk/ground-view)** · What is the world reading
+today? Yesterday's most read Wikipedia articles in 22 languages on a globe, matched across
+languages through Wikidata, so you can see which stories crossed borders and which stayed
+local. It began as a ten-layer fork of God's Eye View and was cut down to the one question
+that worked best. One static page, under 200 KB, with no server.
 → [himanshukalra.com/groundview](https://himanshukalra.com/groundview/)
 
 **[artdrop](https://github.com/uxhimanshuk/artdrop)** — send a stranger a
